@@ -1,0 +1,33 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="1.1"
+  width="250"
+  height="170"
+  viewBox="0 0 250 170">
+  
+  
+  <g >
+
+  <circle id="d1" cx="125" cy="85" r="55" fill="transparent" stroke="#91eb7c" stroke-width="42.5" stroke-dasharray="65.19673507853403 345.9049" stroke-dashoffset="0" style=""></circle>
+
+
+<circle id="d2" cx="125" cy="85" r="55" fill="transparent" stroke="#7dafeb"  stroke-width="42.5" stroke-dasharray="195.5902052356021 345.9049" stroke-dashoffset="-65.19673507853403" style=""></circle>
+
+  <circle id="d3" cx="125" cy="85" r="55" fill="transparent" stroke="#ed6083"  stroke-width="42.5" stroke-dasharray="41.049796160558465 345.9049"  stroke-dashoffset="-260.78694031413613" style=""></circle>
+
+
+  <circle id="d4" cx="125" cy="85" r="55" fill="transparent" stroke="#f6a45c"  stroke-width="42.5" stroke-dasharray="37.427755322862126 345.9049" stroke-dashoffset="-301.8367364746946"
+   style=""></circle>
+
+  <circle id="d5" cx="125" cy="85" r="55" fill="transparent" stroke="#8286eb"  stroke-width="42.5" stroke-dasharray="4.225714310645724 345.9049" stroke-dashoffset="-339.26449179755673" style=""></circle>
+
+  <circle id="d6" cx="125" cy="85" r="55" fill="transparent" stroke="#e6d160"  stroke-width="42.5" stroke-dasharray="1.8110204188481676 345.9049" stroke-dashoffset="-343.49020610820247" style=""></circle>
+
+  <circle id="d6" cx="125" cy="85" r="55" fill="transparent" stroke="#e6d160"  stroke-width="42.5" stroke-dasharray="1.8110204188481676 345.9049" stroke-dashoffset="-343.49020610820247" style=""></circle>
+
+  <circle id="d7" cx="125" cy="85" r="55" fill="transparent" stroke="#f1cfae"  stroke-width="42.5" stroke-dasharray="1.8110204188481676 345.9049" stroke-dashoffset="-345.30122652705063" style=""></circle>
+  
+</g>
+
+  </svg>
